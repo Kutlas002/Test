@@ -4,6 +4,6 @@ class Test{
 	
 		System.out.println("Hello my world");
 		
-		System.out.println("Welcome to my code");
+		System.out.println("Welcome to my coding world");
 	}
 }
